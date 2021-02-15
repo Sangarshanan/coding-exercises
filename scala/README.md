@@ -1,4 +1,4 @@
-#### Scala
+## Scala
 
 Java but it's actually good
 
