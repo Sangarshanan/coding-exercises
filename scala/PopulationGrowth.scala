@@ -30,6 +30,7 @@ Arge.nbYear(1500, 5, 100, 5000)
 
 
 // Best Solution
+/*
 
 object Arge {
 
@@ -38,3 +39,5 @@ object Arge {
     if (p0 >= p) 0 else 1 + nbYear((p0+p0*percent/100+aug).toInt,percent,aug,p)
   }
 }
+
+*/

@@ -24,9 +24,10 @@ println(Dups.duplicateCount("abcde") == 0)
 println(Dups.duplicateCount("aA11") == 2)
 
 // Best Solution
-
+/*
 object Dups {
 
   def duplicateCount(str: String): Int =
     str.groupBy(_.toLower).count(_._2.size > 1)
 }
+*/

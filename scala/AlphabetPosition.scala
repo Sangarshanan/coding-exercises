@@ -32,8 +32,10 @@ assert(Kata.alphabetPosition("The narwhal bacons at midnight.")  == "20 8 5 14 1
 
 // BETTER
 
+/*
 object Kata {
 
   def alphabetPosition(text: String): String =
     text.filter(_.isLetter).map(_.toLower - 96).mkString(" ")
 }
+*/

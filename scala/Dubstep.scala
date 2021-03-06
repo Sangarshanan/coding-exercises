@@ -21,9 +21,11 @@ object Wub {
 Wub.songDecoder("WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB") == "WE ARE THE CHAMPIONS MY FRIEND"
 
 // BEST SOLUTION
+/*
 
 object Wub {
 
   def songDecoder(song: String): String =
     song.replaceAll("(WUB)+", " ").trim
 }
+*/
