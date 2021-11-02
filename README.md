@@ -1,1 +1,3 @@
 # codewars
+
+Coding Exercises 💪 ...
