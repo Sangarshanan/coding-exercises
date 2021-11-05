@@ -20,7 +20,7 @@ public class Puzzle {
         // if a > b 0 else -1
         int value = (a-b) >> 31;
         // if `>` 0 else -1
-        int operation = (c >> 1) - 31;
+        int operation = (c - '=' - 1) / 2 ;
         // if a > b and ` >` return a else b
         int index = (value ^ operation) * -1;
         // Expression that gives us 0 or 1, which we can use to pick a or b.
