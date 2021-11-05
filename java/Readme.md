@@ -1,4 +1,5 @@
 # Java
 
-Should have picked this up in college when I had the chance
- 
+yeah yeah everyone knows
+
+`PROGRAM=Puzzle && javac $PROGRAM.java && java $PROGRAM`
